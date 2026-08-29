@@ -1,0 +1,7 @@
+# XXD Panel 098 | Original Prompt — English reading translation
+
+Create one independent premium poster for each uploaded photograph, without combining photographs. Use a 3:4 portrait canvas with upper and lower regions at a strict 1:1 height ratio. Preserve the original photograph above: identity, structure, pose, material realism, natural light, and colour atmosphere, with only subtle editorial grading and natural environmental extension.
+
+Reconstruct the lower region from the photograph’s recognisable subject, contour, pose, and narrative relationship as a faux-naïf picture-book illustration. Use fine loose dark ink, flat watercolor or gouache washes, visible brush marks, simplified symbols, naïve perspective, symbolic scale, decorative narrative composition, large negative space, and deliberate imperfection. Keep the subject identifiable while allowing crooked contours, searching lines, uneven coverage, and playful hand lettering. Derive bright, lively colours from the source; keep them clear and joyful, with pale paper breathing space. Let sparse words or poetic fragments arise from the subject and metaphor in fine, irregular hand lettering; no preset title, language, number, place, or template. Avoid realism, strict perspective, precise anatomy, smooth vectors, digital gradients, 3D, commercial cartoon styling, crowded backgrounds, muddy colours, or a templated children’s poster.
+
+> Faithful reading translation; runtime creative authority remains `zh-CN.md`.

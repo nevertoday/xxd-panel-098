@@ -331,8 +331,10 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | **[xxd-panel-085](https://github.com/nevertoday/xxd-panel-085)** | 手工微缩舞台 · 收藏级立体封面 · 黏土毛毡纸板 · 手剪线绳 · 哑光触感 · 艺术留白 |
 | **[xxd-panel-092](https://github.com/nevertoday/xxd-panel-092)** | Expressive pen · loose contours · geometric and scribble hatching · negative-space composition |
 | **[xxd-panel-093](https://github.com/nevertoday/xxd-panel-093)** | Independent original aesthetic · photo-grounded transformation · flexible multi-format delivery |
+| **[xxd-panel-094](https://github.com/nevertoday/xxd-panel-094)** | Fine pen-and-ink · selective solid black · source-derived spot colour · vast negative space · vintage book illustration |
 | **[xxd-panel-095](https://github.com/nevertoday/xxd-panel-095)** | Independent original aesthetic · photo-grounded transformation · flexible multi-format delivery |
 | **[xxd-panel-096](https://github.com/nevertoday/xxd-panel-096)** | Independent original aesthetic · photo-grounded transformation · flexible multi-format delivery |
+| **[xxd-panel-097](https://github.com/nevertoday/xxd-panel-097)** | Mid-century vernacular commercial graphic · schematic line drawing · two-colour spot printing · functional humour |
 | **[xxd-panel-098](https://github.com/nevertoday/xxd-panel-098)** | Faux-naïf picture-book illustration · loose ink linework · flat watercolor washes · visible brush marks · symbolic simplification · playful hand lettering |
 <!-- xxd-panel-catalog:end -->
 

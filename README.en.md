@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 098
+# 🦁 XXD Panel 098｜Naive Watercolor Book
 
 ### Retell a photograph as a bright, loose, deliberately imperfect picture-book world
 

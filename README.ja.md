@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 098
+# 🦁 XXD Panel 098｜素朴な水彩の本
 
 ### 写真を明るく、ゆるく、意図的に不完全な絵本世界へ語り直す
 

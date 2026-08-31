@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 098
+# 🦁 XXD Panel 098｜稚拙水彩书
 
 ### 把照片重新讲成一页明亮、松弛又有设计感的拟朴素绘本
 

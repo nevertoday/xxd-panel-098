@@ -45,6 +45,15 @@ The eight works above comprise four 16:9 landscape left–right samples and four
 
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -63,22 +72,6 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 | **How it respects the source** | Identity, pose, and narrative remain recognisable while unnecessary elements are actively omitted without tracing filters |
 | **Where it works** | Art posters, covers, social content, design-only art, multiple ratios, and four-device wallpaper sets |
 <!-- xxd-panel-benefit:end -->
-
-## Transformation logic
-
-```text
-find the narrative core → remove complex background detail → turn subjects into recognisable symbols → recompose with naïve perspective and symbolic scale → paint in loose ink and source-derived watercolor → let lettering grow through the image
-```
-
-## Recognisable finished traits
-
-- Fine loose dark ink may wander, repeat, overshoot, or remain open.
-- Flat watercolor and gouache-like washes preserve brush marks, spill, paper white, and uneven coverage.
-- Bright colours come from the source's liveliest hues rather than an averaged or muted palette.
-- Irregular hand lettering grows around subjects and negative space as part of the painting.
-- Avoid realism, strict perspective, smooth vectors, digital gradients, 3D, commercial cartoons, and templated children's posters.
-
-All aesthetic constraints live only in the [canonical prompt](references/original-prompt/zh-CN.md). The Skill and runtime adapters resolve delivery variables. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-098-prompt.en.md)
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>

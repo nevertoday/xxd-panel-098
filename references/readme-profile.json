@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 098｜Naive Watercolor Book: retells the subject, pose and story of a photo as a faux-naïf picture-book page — thin, loose dark ink lines that wobble, search and leave gaps, flat watercolour or gouache-like washes that spill over the lines and let paper show through, symbolic simplification with playful scale and naive perspective, a designed decorative composition around one story with wide pale-paper whitespace, bright colours remixed from the photo (sky blue, lake teal, fresh green, lemon, warm orange, coral pink, soft violet) and a few words in thin, clumsy hand lettering that grows around the picture. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-098 or asks for naive watercolour, picture-book or loose ink-and-wash illustration from a photo.",
+  "short_description": "稚拙水彩书：把照片重讲成墨线松动、水彩越线、色彩明快的拟朴素绘本页",
+  "zh-CN": {
+    "name": "稚拙水彩书",
+    "tagline": "把照片重新讲成一页明亮、松弛、故意不完美的绘本插画。",
+    "look": "主体被简化成好认的小符号，用纤细松动的墨线画出，轮廓有点歪、会重复、不一定闭合，大小和透视按故事需要夸张。颜色是平涂的水彩或类水粉，会越过线条、留下刷痕和纸白。颜色取自照片最亮的部分，调成天空蓝、嫩绿、柠檬黄、珊瑚粉等，铺在大片浅纸色上。元素围绕一个故事重新摆放，可以环绕、叠放、重复，像一个想象出来的小世界，但不会塞满。文字是稚拙的手写字，大小不一、略倾斜，沿主体或留白自由生长。",
+    "traits": ["松散墨线", "平面水彩", "符号化造型", "天真透视", "明快取色", "稚拙手绘字"],
+    "good": [
+      "有一个故事核心的日常照片：野餐、孩子在海边玩、一家人遛狗、摆满菜的餐桌",
+      "可以变成小符号的主体：一只猫、一棵树、一辆小车、一束花",
+      "颜色明快的户外或旅行照片：花园、夏天的街道、湖边"
+    ],
+    "poor": [
+      "需要准确比例和细节的图：产品图、建筑效果图、证件照",
+      "颜色昏暗沉重的照片，画面会被强制提亮，原本的情绪会变",
+      "想要写实插画、光滑矢量、商业卡通或满版背景的需求"
+    ]
+  },
+  "en": {
+    "name": "Naive Watercolor Book",
+    "tagline": "Retells a photo as a bright, loose, deliberately imperfect picture-book page.",
+    "look": "The subject becomes a few easy-to-read symbols drawn in thin, loose ink lines that lean, repeat and leave gaps, with scale and perspective bent to suit the story. Colour goes on as flat watercolour or gouache-like washes that spill past the lines and leave brush marks and paper white. The colours come from the brightest parts of the photo, remixed into sky blue, fresh green, lemon yellow and coral pink over wide pale paper. Elements are rearranged around one story, circling, stacking or repeating into a small imagined world without filling every corner. Text is clumsy hand lettering of varied size and tilt, growing along the subject or the empty space.",
+    "traits": ["Loose ink lines", "Flat watercolour", "Symbolic shapes", "Naive perspective", "Bright photo colours", "Naive hand lettering"],
+    "good": [
+      "Everyday photos with one story at their heart: a picnic, a child at the beach, a family walking the dog, a full dinner table",
+      "Subjects that turn into simple symbols: a cat, a tree, a small car, a bunch of flowers",
+      "Bright outdoor or travel photos: a garden, a summer street, a lakeside"
+    ],
+    "poor": [
+      "Images that need accurate proportion and detail: product shots, architectural renders, ID photos",
+      "Dark, heavy photos, which are brightened and lose their original mood",
+      "Requests for realistic illustration, glossy vectors, commercial cartoons or a fully filled background"
+    ]
+  },
+  "ja": {
+    "name": "素朴な水彩の本",
+    "tagline": "写真を、明るくゆるく、わざと不完全な絵本の一ページとして描き直します。",
+    "look": "主役はわかりやすい小さな記号に簡略化され、細くゆるい墨線で描かれます。輪郭は少し傾いたり重なったり閉じなかったりし、大きさや遠近は物語に合わせて誇張されます。色は平塗りの水彩やガッシュ風で、線からはみ出し、刷毛跡や紙の白が残ります。色は写真のいちばん明るい部分から取り、空色、若草色、レモンイエロー、コーラルピンクなどに調え、淡い紙色の広い余白にのせます。要素はひとつの物語を中心に並べ直され、囲んだり重ねたり繰り返したりして小さな空想の世界になりますが、詰め込みすぎません。文字は大きさも傾きもまちまちな素朴な手書きで、主役や余白に沿って自由に伸びます。",
+    "traits": ["ゆるい墨線", "平塗りの水彩", "記号的な形", "素朴な遠近", "明るい写真の色", "素朴な手書き文字"],
+    "good": [
+      "物語の芯がひとつある日常写真：ピクニック、海辺で遊ぶ子ども、犬と散歩する家族、料理が並ぶ食卓",
+      "小さな記号にしやすい主役：猫、一本の木、小さな車、花束",
+      "色の明るい屋外や旅行の写真：庭、夏の通り、湖のほとり"
+    ],
+    "poor": [
+      "正確な比率や細部が必要な画像：商品写真、建築パース、証明写真",
+      "暗く重い色の写真（明るく調整されるため元の気分が変わります）",
+      "写実的なイラスト、つるっとしたベクター、商業的なカートゥーン、背景を埋め尽くす絵を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "소박한 수채 책",
+    "tagline": "사진을 밝고 느슨하며 일부러 불완전한 그림책 한 페이지로 다시 들려줍니다.",
+    "look": "주인공은 알아보기 쉬운 작은 기호로 단순화되어 가늘고 느슨한 먹선으로 그려집니다. 윤곽은 조금 기울거나 겹치거나 닫히지 않기도 하고, 크기와 원근은 이야기에 맞게 과장됩니다. 색은 평평한 수채나 과슈 느낌으로 칠해 선을 넘고 붓자국과 종이의 흰색이 남습니다. 색은 사진의 가장 밝은 부분에서 가져와 하늘색, 연둣빛, 레몬 옐로, 코럴 핑크 등으로 다듬고, 연한 종이색의 넓은 여백 위에 놓습니다. 요소들은 하나의 이야기를 중심으로 다시 배치되어 둘러싸고 포개지고 반복되며 작은 상상의 세계가 되지만, 빽빽하게 채우지는 않습니다. 글자는 크기와 기울기가 제각각인 서툰 손글씨로, 주인공이나 여백을 따라 자유롭게 자랍니다.",
+    "traits": ["느슨한 먹선", "평면 수채", "기호적 형태", "천진한 원근", "밝은 사진 색", "서툰 손글씨"],
+    "good": [
+      "이야기의 중심이 하나 있는 일상 사진: 소풍, 바닷가에서 노는 아이, 강아지와 산책하는 가족, 음식이 가득한 식탁",
+      "작은 기호로 바꾸기 좋은 주인공: 고양이, 나무 한 그루, 작은 자동차, 꽃다발",
+      "색이 밝은 야외나 여행 사진: 정원, 여름 거리, 호숫가"
+    ],
+    "poor": [
+      "정확한 비율과 세부가 필요한 이미지: 제품 사진, 건축 투시도, 증명사진",
+      "어둡고 무거운 색의 사진(밝게 바뀌어 원래 분위기가 달라집니다)",
+      "사실적 일러스트, 매끈한 벡터, 상업 카툰, 배경을 꽉 채운 그림을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "كتاب ألوان مائية ساذج",
+    "tagline": "يعيد سرد الصورة كصفحة من كتاب مصوّر، زاهية ومرتخية وغير مكتملة عن قصد.",
+    "look": "يتحول العنصر إلى رموز بسيطة سهلة القراءة، مرسومة بخطوط حبر رفيعة مرتخية تميل وتتكرر وتترك فجوات، مع أحجام ومنظور يُطوَّعان لخدمة الحكاية. يُوضع اللون كطبقات مسطحة من الألوان المائية أو ما يشبه الغواش، تتجاوز الخطوط وتترك آثار الفرشاة وبياض الورق. تُؤخذ الألوان من أزهى أجزاء الصورة وتُمزج من جديد إلى أزرق سماوي وأخضر طري وأصفر ليموني ووردي مرجاني فوق مساحات واسعة من الورق الفاتح. تُعاد ترتيب العناصر حول حكاية واحدة، فتلتف وتتراكب وتتكرر لتصنع عالماً صغيراً متخيَّلاً دون أن تملأ كل زاوية. النص بخط يد ساذج متفاوت الحجم والميل، ينمو على امتداد العنصر أو الفراغ.",
+    "traits": ["خطوط حبر مرتخية", "ألوان مائية مسطحة", "أشكال رمزية", "منظور ساذج", "ألوان زاهية من الصورة", "خط يد ساذج"],
+    "good": [
+      "صور يومية في قلبها حكاية واحدة: نزهة، طفل على الشاطئ، عائلة تنزّه كلبها، مائدة عامرة",
+      "عناصر تتحول بسهولة إلى رموز بسيطة: قطة، شجرة، سيارة صغيرة، باقة زهور",
+      "صور خارجية أو صور سفر زاهية الألوان: حديقة، شارع صيفي، ضفة بحيرة"
+    ],
+    "poor": [
+      "صور تحتاج إلى نِسب وتفاصيل دقيقة: صور المنتجات، التصاميم المعمارية، صور الهوية",
+      "الصور الداكنة الثقيلة، إذ تُفتَّح ألوانها فيتغير مزاجها الأصلي",
+      "طلب رسم واقعي أو متجهات لامعة أو كرتون تجاري أو خلفية مملوءة بالكامل"
+    ]
+  }
+}

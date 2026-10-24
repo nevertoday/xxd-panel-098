@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-098
-description: "Create XXD Panel 098 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-098 or requests the exact Panel 098 style."
+description: "XXD Panel 098｜Naive Watercolor Book: retells the subject, pose and story of a photo as a faux-naïf picture-book page — thin, loose dark ink lines that wobble, search and leave gaps, flat watercolour or gouache-like washes that spill over the lines and let paper show through, symbolic simplification with playful scale and naive perspective, a designed decorative composition around one story with wide pale-paper whitespace, bright colours remixed from the photo (sky blue, lake teal, fresh green, lemon, warm orange, coral pink, soft violet) and a few words in thin, clumsy hand lettering that grows around the picture. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-098 or asks for naive watercolour, picture-book or loose ink-and-wash illustration from a photo."
 ---
 
 # XXD Panel 098
